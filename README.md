@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makashika
 - 👀 I’m interested in making my own game someday
-- 🌱 I’m currently learning python, HTML, and CSS
+- 🌱 I’m currently learning java
 - 📫 How to reach me by email at katiemichelle02@hotmail.com
 
 <!---
